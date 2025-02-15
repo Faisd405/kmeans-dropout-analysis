@@ -72,7 +72,7 @@ def perform_clustering(X, k):
     #==============================================================================
     kmeans = KMeans(n_clusters=k, random_state=42, n_init=10)
     clusters = kmeans.fit_predict(X)
-    return clusters
+    return clusters + 1
 
 
 def main(): 
