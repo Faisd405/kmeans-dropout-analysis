@@ -1,0 +1,549 @@
+No,Daerah,Level,SD,SMP,SMA,SMK
+1,Provinsi D.K.I. Jakarta,Provinsi,815,272,337,192
+2,Kab. Kepulauan Seribu,Kabupaten/Kota,1,0,0,0
+3,Kota Jakarta Pusat,Kabupaten/Kota,57,25,17,42
+4,Kota Jakarta Utara,Kabupaten/Kota,162,57,23,42
+5,Kota Jakarta Barat,Kabupaten/Kota,235,46,44,19
+6,Kota Jakarta Selatan,Kabupaten/Kota,139,62,24,24
+7,Kota Jakarta Timur,Kabupaten/Kota,221,82,229,65
+8,Provinsi Jawa Barat,Provinsi,"5,272","1,217",688,"1,595"
+9,Kab. Bogor,Kabupaten/Kota,781,130,66,328
+10,Kab. Sukabumi,Kabupaten/Kota,374,94,82,248
+11,Kab. Cianjur,Kabupaten/Kota,500,160,44,184
+12,Kab. Bandung,Kabupaten/Kota,465,100,26,89
+13,Kab. Sumedang,Kabupaten/Kota,117,10,0,4
+14,Kab. Garut,Kabupaten/Kota,316,112,100,95
+15,Kab. Tasikmalaya,Kabupaten/Kota,194,67,78,20
+16,Kab. Ciamis,Kabupaten/Kota,78,19,3,19
+17,Kab. Kuningan,Kabupaten/Kota,104,24,9,48
+18,Kab. Majalengka,Kabupaten/Kota,147,19,3,13
+19,Kab. Cirebon,Kabupaten/Kota,231,59,7,129
+20,Kab. Indramayu,Kabupaten/Kota,208,64,80,41
+21,Kab. Subang,Kabupaten/Kota,126,56,24,67
+22,Kab. Purwakarta,Kabupaten/Kota,84,15,5,9
+23,Kab. Karawang,Kabupaten/Kota,388,49,7,46
+24,Kab. Bekasi,Kabupaten/Kota,267,55,9,89
+25,Kab. Bandung Barat,Kabupaten/Kota,202,40,79,38
+26,Kab. Pangandaran,Kabupaten/Kota,23,2,1,13
+27,Kota Bandung,Kabupaten/Kota,135,5,10,22
+28,Kota Bogor,Kabupaten/Kota,46,11,0,10
+29,Kota Sukabumi,Kabupaten/Kota,31,1,13,0
+30,Kota Cirebon,Kabupaten/Kota,23,19,1,3
+31,Kota Bekasi,Kabupaten/Kota,176,33,36,35
+32,Kota Depok,Kabupaten/Kota,154,45,3,22
+33,Kota Cimahi,Kabupaten/Kota,24,7,1,8
+34,Kota Tasikmalaya,Kabupaten/Kota,64,20,0,8
+35,Kota Banjar,Kabupaten/Kota,14,1,1,7
+36,Provinsi Jawa Tengah,Provinsi,"2,212",464,166,652
+37,Kab. Cilacap,Kabupaten/Kota,109,8,8,8
+38,Kab. Banyumas,Kabupaten/Kota,92,28,7,12
+39,Kab. Purbalingga,Kabupaten/Kota,56,0,1,33
+40,Kab. Banjarnegara,Kabupaten/Kota,123,16,2,15
+41,Kab. Kebumen,Kabupaten/Kota,111,3,9,25
+42,Kab. Purworejo,Kabupaten/Kota,14,14,0,0
+43,Kab. Wonosobo,Kabupaten/Kota,46,23,2,1
+44,Kab. Magelang,Kabupaten/Kota,58,30,2,34
+45,Kab. Boyolali,Kabupaten/Kota,39,2,7,8
+46,Kab. Klaten,Kabupaten/Kota,32,1,7,9
+47,Kab. Sukoharjo,Kabupaten/Kota,34,4,14,6
+48,Kab. Wonogiri,Kabupaten/Kota,40,17,4,20
+49,Kab. Karanganyar,Kabupaten/Kota,25,11,0,8
+50,Kab. Sragen,Kabupaten/Kota,60,25,7,19
+51,Kab. Grobogan,Kabupaten/Kota,86,35,5,44
+52,Kab. Blora,Kabupaten/Kota,84,8,5,14
+53,Kab. Rembang,Kabupaten/Kota,15,2,6,7
+54,Kab. Pati,Kabupaten/Kota,90,4,2,29
+55,Kab. Kudus,Kabupaten/Kota,45,4,0,15
+56,Kab. Jepara,Kabupaten/Kota,52,18,13,22
+57,Kab. Demak,Kabupaten/Kota,130,4,6,58
+58,Kab. Semarang,Kabupaten/Kota,53,8,2,30
+59,Kab. Temanggung,Kabupaten/Kota,16,7,1,1
+60,Kab. Kendal,Kabupaten/Kota,40,11,10,28
+61,Kab. Batang,Kabupaten/Kota,80,3,1,5
+62,Kab. Pekalongan,Kabupaten/Kota,67,8,9,6
+63,Kab. Pemalang,Kabupaten/Kota,141,27,1,14
+64,Kab. Tegal,Kabupaten/Kota,121,21,4,65
+65,Kab. Brebes,Kabupaten/Kota,221,90,10,98
+66,Kota Magelang,Kabupaten/Kota,3,4,2,1
+67,Kota Surakarta,Kabupaten/Kota,31,8,6,3
+68,Kota Salatiga,Kabupaten/Kota,4,7,0,2
+69,Kota Semarang,Kabupaten/Kota,65,10,4,9
+70,Kota Pekalongan,Kabupaten/Kota,13,2,0,1
+71,Kota Tegal,Kabupaten/Kota,16,1,9,2
+72,Provinsi D.I. Yogyakarta,Provinsi,99,14,5,20
+73,Kab. Bantul,Kabupaten/Kota,14,0,1,4
+74,Kab. Sleman,Kabupaten/Kota,24,1,1,4
+75,Kab. Gunungkidul,Kabupaten/Kota,21,4,2,0
+76,Kab. Kulon Progo,Kabupaten/Kota,6,4,0,4
+77,Kota Yogyakarta,Kabupaten/Kota,34,5,1,8
+78,Provinsi Jawa Timur,Provinsi,"2,654","1,792",842,"1,645"
+79,Kab. Gresik,Kabupaten/Kota,55,22,15,82
+80,Kab. Sidoarjo,Kabupaten/Kota,80,37,13,43
+81,Kab. Mojokerto,Kabupaten/Kota,25,16,21,1
+82,Kab. Jombang,Kabupaten/Kota,77,25,16,8
+83,Kab. Bojonegoro,Kabupaten/Kota,29,9,15,26
+84,Kab. Tuban,Kabupaten/Kota,33,16,13,7
+85,Kab. Lamongan,Kabupaten/Kota,21,21,34,19
+86,Kab. Madiun,Kabupaten/Kota,19,3,2,3
+87,Kab. Ngawi,Kabupaten/Kota,28,22,13,10
+88,Kab. Magetan,Kabupaten/Kota,29,5,17,9
+89,Kab. Ponorogo,Kabupaten/Kota,22,17,5,29
+90,Kab. Pacitan,Kabupaten/Kota,34,8,5,6
+91,Kab. Kediri,Kabupaten/Kota,36,28,11,16
+92,Kab. Nganjuk,Kabupaten/Kota,74,13,1,41
+93,Kab. Blitar,Kabupaten/Kota,42,20,7,23
+94,Kab. Tulungagung,Kabupaten/Kota,37,10,13,15
+95,Kab. Trenggalek,Kabupaten/Kota,14,9,4,15
+96,Kab. Malang,Kabupaten/Kota,205,185,37,131
+97,Kab. Pasuruan,Kabupaten/Kota,103,18,5,38
+98,Kab. Probolinggo,Kabupaten/Kota,132,106,31,45
+99,Kab. Lumajang,Kabupaten/Kota,73,50,42,16
+100,Kab. Bondowoso,Kabupaten/Kota,83,38,32,60
+101,Kab. Situbondo,Kabupaten/Kota,67,115,9,39
+102,Kab. Jember,Kabupaten/Kota,184,236,41,383
+103,Kab. Banyuwangi,Kabupaten/Kota,77,25,4,20
+104,Kab. Pamekasan,Kabupaten/Kota,139,103,88,118
+105,Kab. Sampang,Kabupaten/Kota,294,294,112,74
+106,Kab. Sumenep,Kabupaten/Kota,102,112,72,104
+107,Kab. Bangkalan,Kabupaten/Kota,214,122,34,89
+108,Kota Surabaya,Kabupaten/Kota,257,78,31,80
+109,Kota Malang,Kabupaten/Kota,12,14,84,35
+110,Kota Madiun,Kabupaten/Kota,5,0,0,0
+111,Kota Kediri,Kabupaten/Kota,21,2,3,17
+112,Kota Mojokerto,Kabupaten/Kota,2,0,0,5
+113,Kota Blitar,Kabupaten/Kota,0,0,1,14
+114,Kota Pasuruan,Kabupaten/Kota,7,2,0,2
+115,Kota Probolinggo,Kabupaten/Kota,16,9,2,20
+116,Kota Batu,Kabupaten/Kota,6,2,9,2
+117,Provinsi Aceh,Provinsi,"1,060",440,299,169
+118,Kab. Aceh Besar,Kabupaten/Kota,32,13,15,19
+119,Kab. Pidie,Kabupaten/Kota,60,28,13,22
+120,Kab. Aceh Utara,Kabupaten/Kota,94,52,73,24
+121,Kab. Aceh Timur,Kabupaten/Kota,214,98,2,9
+122,Kab. Aceh Tengah,Kabupaten/Kota,24,7,5,20
+123,Kab. Aceh Barat,Kabupaten/Kota,21,5,9,4
+124,Kab. Aceh Selatan,Kabupaten/Kota,22,26,16,2
+125,Kab. Aceh Tenggara,Kabupaten/Kota,182,46,23,1
+126,Kab. Simeulue,Kabupaten/Kota,22,12,16,0
+127,Kab. Bireuen,Kabupaten/Kota,81,16,33,2
+128,Kab. Aceh Singkil,Kabupaten/Kota,51,11,4,3
+129,Kab. Aceh Tamiang,Kabupaten/Kota,19,27,5,7
+130,Kab. Nagan Raya,Kabupaten/Kota,35,28,8,0
+131,Kab. Aceh Jaya,Kabupaten/Kota,19,3,15,4
+132,Kab. Aceh Barat Daya,Kabupaten/Kota,7,2,13,0
+133,Kab. Gayo Lues,Kabupaten/Kota,18,21,13,2
+134,Kab. Bener Meriah,Kabupaten/Kota,23,4,8,2
+135,Kab. Pidie Jaya,Kabupaten/Kota,20,6,9,8
+136,Kota Sabang,Kabupaten/Kota,1,0,0,0
+137,Kota Banda Aceh,Kabupaten/Kota,21,2,6,12
+138,Kota Lhokseumawe,Kabupaten/Kota,10,1,2,8
+139,Kota Langsa,Kabupaten/Kota,38,23,4,15
+140,Kota Subulussalam,Kabupaten/Kota,46,9,7,5
+141,Provinsi Sumatera Utara,Provinsi,"3,767","1,666","1,263","2,283"
+142,Kab. Deli Serdang,Kabupaten/Kota,416,232,141,347
+143,Kab. Langkat,Kabupaten/Kota,379,82,125,110
+144,Kab. Karo,Kabupaten/Kota,65,18,35,31
+145,Kab. Simalungun,Kabupaten/Kota,206,134,84,100
+146,Kab. Dairi,Kabupaten/Kota,129,73,29,77
+147,Kab. Asahan,Kabupaten/Kota,284,34,43,37
+148,Kab. Labuhanbatu,Kabupaten/Kota,52,50,16,52
+149,Kab. Tapanuli Utara,Kabupaten/Kota,48,20,14,12
+150,Kab. Tapanuli Tengah,Kabupaten/Kota,76,36,23,68
+151,Kab. Tapanuli Selatan,Kabupaten/Kota,50,15,17,0
+152,Kab. Nias,Kabupaten/Kota,56,41,11,5
+153,Kab. Mandailing Natal,Kabupaten/Kota,115,29,23,22
+154,Kab. Toba,Kabupaten/Kota,34,5,16,30
+155,Kab. Nias Selatan,Kabupaten/Kota,311,252,181,197
+156,Kab. Pakpak Bharat,Kabupaten/Kota,4,3,1,2
+157,Kab. Humbang Hasundutan,Kabupaten/Kota,52,22,28,2
+158,Kab. Samosir,Kabupaten/Kota,38,8,9,5
+159,Kab. Serdang Bedagai,Kabupaten/Kota,261,85,26,87
+160,Kab. Batu Bara,Kabupaten/Kota,134,70,66,82
+161,Kab. Padang Lawas utara,Kabupaten/Kota,28,22,2,18
+162,Kab. Padang Lawas,Kabupaten/Kota,73,26,40,34
+163,Kab. Labuhanbatu Utara,Kabupaten/Kota,107,27,15,227
+164,Kab. Labuhanbatu Selatan,Kabupaten/Kota,44,19,19,6
+165,Kab. Nias Barat,Kabupaten/Kota,25,2,9,3
+166,Kab. Nias Utara,Kabupaten/Kota,49,26,9,12
+167,Kota Medan,Kabupaten/Kota,449,217,176,329
+168,Kota Binjai,Kabupaten/Kota,20,5,25,104
+169,Kota Tebing Tinggi,Kabupaten/Kota,45,4,16,19
+170,Kota Pematangsiantar,Kabupaten/Kota,29,6,14,104
+171,Kota Tanjung balai,Kabupaten/Kota,108,37,1,4
+172,Kota Sibolga,Kabupaten/Kota,40,7,15,0
+173,Kota Padang Sidempuan,Kabupaten/Kota,10,38,25,103
+174,Kota Gunungsitoli,Kabupaten/Kota,30,21,9,54
+175,Provinsi Sumatera Barat,Provinsi,778,309,241,252
+176,Kab. Agam,Kabupaten/Kota,71,26,13,1
+177,Kab. Pasaman,Kabupaten/Kota,64,5,23,3
+178,Kab. Lima puluh Kota,Kabupaten/Kota,43,25,6,2
+179,Kab. Solok,Kabupaten/Kota,70,35,26,0
+180,Kab. Padang Pariaman,Kabupaten/Kota,84,24,9,8
+181,Kab. Pesisir Selatan,Kabupaten/Kota,61,29,24,137
+182,Kab. Tanah Datar,Kabupaten/Kota,38,20,8,3
+183,Kab. Sijunjung,Kabupaten/Kota,37,13,2,4
+184,Kab. Kepulauan Mentawai,Kabupaten/Kota,40,28,26,0
+185,Kab. Solok Selatan,Kabupaten/Kota,32,18,1,2
+186,Kab. Dharmasraya,Kabupaten/Kota,34,20,8,2
+187,Kab. Pasaman Barat,Kabupaten/Kota,65,28,27,16
+188,Kota Bukittinggi,Kabupaten/Kota,5,14,22,1
+189,Kota Padang,Kabupaten/Kota,81,8,13,17
+190,Kota Padang Panjang,Kabupaten/Kota,3,1,1,14
+191,Kota Sawahlunto,Kabupaten/Kota,3,0,4,0
+192,Kota Solok,Kabupaten/Kota,10,0,1,32
+193,Kota Payakumbuh,Kabupaten/Kota,19,15,26,0
+194,Kota Pariaman,Kabupaten/Kota,18,0,1,10
+195,Provinsi Riau,Provinsi,"1,051",498,232,253
+196,Kab. Kampar,Kabupaten/Kota,90,42,60,7
+197,Kab. Bengkalis,Kabupaten/Kota,74,26,31,22
+198,Kab. Indragiri Hulu,Kabupaten/Kota,132,18,7,11
+199,Kab. Indragiri Hilir,Kabupaten/Kota,125,45,29,7
+200,Kab. Pelalawan,Kabupaten/Kota,71,25,9,114
+201,Kab. Rokan Hulu,Kabupaten/Kota,103,58,6,27
+202,Kab. Rokan Hilir,Kabupaten/Kota,157,43,42,22
+203,Kab. Siak,Kabupaten/Kota,52,19,6,7
+204,Kab. Kuantan Singingi,Kabupaten/Kota,23,4,7,3
+205,Kab. Kepulauan Meranti,Kabupaten/Kota,57,21,11,0
+206,Kota Pekanbaru,Kabupaten/Kota,144,192,15,26
+207,Kota Dumai,Kabupaten/Kota,23,5,9,7
+208,Provinsi Jambi,Provinsi,664,160,191,68
+209,Kab. Batang Hari,Kabupaten/Kota,31,4,53,2
+210,Kab. Bungo,Kabupaten/Kota,45,30,29,11
+211,Kab. Sarolangun,Kabupaten/Kota,36,5,8,2
+212,Kab. Tanjung Jabung Barat,Kabupaten/Kota,110,11,12,5
+213,Kab. Kerinci,Kabupaten/Kota,166,39,56,2
+214,Kab. Tebo,Kabupaten/Kota,83,8,4,18
+215,Kab. Muaro Jambi,Kabupaten/Kota,34,6,9,1
+216,Kab. Tanjung Jabung Timur,Kabupaten/Kota,55,9,6,4
+217,Kab. Merangin,Kabupaten/Kota,36,24,3,6
+218,Kota Jambi,Kabupaten/Kota,50,9,11,15
+219,Kota Sungai Penuh,Kabupaten/Kota,18,15,0,2
+220,Provinsi Sumatera Selatan,Provinsi,"1,887",524,397,274
+221,Kab. Musi Banyuasin,Kabupaten/Kota,214,48,11,26
+222,Kab. Ogan Komering Ilir,Kabupaten/Kota,221,28,27,13
+223,Kab. Ogan Komering Ulu,Kabupaten/Kota,121,16,8,21
+224,Kab. Muara Enim,Kabupaten/Kota,174,33,16,13
+225,Kab. Lahat,Kabupaten/Kota,52,18,54,3
+226,Kab. Musi Rawas,Kabupaten/Kota,193,25,9,19
+227,Kab. Banyuasin,Kabupaten/Kota,180,84,48,16
+228,Kab. Ogan Komering Ulu Timur,Kabupaten/Kota,70,34,14,26
+229,Kab. Ogan Komering Ulu Selatan,Kabupaten/Kota,106,18,23,0
+230,Kab. Ogan Ilir,Kabupaten/Kota,76,57,14,8
+231,Kab. Empat Lawang,Kabupaten/Kota,66,12,9,3
+232,Kab. Penukal Abab Lematang Ilir,Kabupaten/Kota,102,14,20,7
+233,Kab. Musi Rawas Utara,Kabupaten/Kota,38,12,35,1
+234,Kota Palembang,Kabupaten/Kota,179,45,39,86
+235,Kota Prabumulih,Kabupaten/Kota,55,8,1,9
+236,Kota Lubuklinggau,Kabupaten/Kota,30,44,46,21
+237,Kota Pagar Alam,Kabupaten/Kota,10,28,23,2
+238,Provinsi Lampung,Provinsi,849,199,261,127
+239,Kab. Lampung Selatan,Kabupaten/Kota,125,38,20,29
+240,Kab. Lampung Tengah,Kabupaten/Kota,74,15,19,10
+241,Kab. Lampung Utara,Kabupaten/Kota,66,9,20,12
+242,Kab. Lampung Barat,Kabupaten/Kota,26,14,12,0
+243,Kab. Tulang Bawang,Kabupaten/Kota,57,25,3,5
+244,Kab. Tanggamus,Kabupaten/Kota,62,21,6,14
+245,Kab. Lampung Timur,Kabupaten/Kota,80,18,9,11
+246,Kab. Way Kanan,Kabupaten/Kota,54,12,110,1
+247,Kab. Pesawaran,Kabupaten/Kota,66,4,3,18
+248,Kab. Pringsewu,Kabupaten/Kota,31,3,1,2
+249,Kab. Mesuji,Kabupaten/Kota,36,6,5,1
+250,Kab. Tulang Bawang Barat,Kabupaten/Kota,22,18,2,9
+251,Kab. Pesisir Barat,Kabupaten/Kota,43,4,0,0
+252,Kota Bandar Lampung,Kabupaten/Kota,100,11,43,5
+253,Kota Metro,Kabupaten/Kota,7,1,8,10
+254,Provinsi Kalimantan Barat,Provinsi,"1,092",384,167,223
+255,Kab. Sambas,Kabupaten/Kota,125,22,17,39
+256,Kab. Mempawah,Kabupaten/Kota,41,2,5,2
+257,Kab. Sanggau,Kabupaten/Kota,118,79,20,58
+258,Kab. Sintang,Kabupaten/Kota,98,19,6,12
+259,Kab. Kapuas Hulu,Kabupaten/Kota,42,66,3,6
+260,Kab. Ketapang,Kabupaten/Kota,176,70,11,33
+261,Kab. Bengkayang,Kabupaten/Kota,43,28,15,8
+262,Kab. Landak,Kabupaten/Kota,33,6,19,1
+263,Kab. Sekadau,Kabupaten/Kota,29,9,4,10
+264,Kab. Melawi,Kabupaten/Kota,81,34,17,9
+265,Kab. Kayong Utara,Kabupaten/Kota,43,8,1,1
+266,Kab. Kubu Raya,Kabupaten/Kota,152,25,19,42
+267,Kota Pontianak,Kabupaten/Kota,65,11,24,2
+268,Kota Singkawang,Kabupaten/Kota,46,5,6,0
+269,Provinsi Kalimantan Tengah,Provinsi,549,220,104,105
+270,Kab. Kapuas,Kabupaten/Kota,118,33,5,26
+271,Kab. Barito Selatan,Kabupaten/Kota,16,17,10,1
+272,Kab. Barito Utara,Kabupaten/Kota,20,10,5,0
+273,Kab. Kotawaringin Timur,Kabupaten/Kota,80,22,16,21
+274,Kab. Kotawaringin Barat,Kabupaten/Kota,43,14,9,7
+275,Kab. Katingan,Kabupaten/Kota,23,10,16,1
+276,Kab. Seruyan,Kabupaten/Kota,58,23,2,1
+277,Kab. Sukamara,Kabupaten/Kota,12,2,1,4
+278,Kab. Lamandau,Kabupaten/Kota,14,8,3,0
+279,Kab. Gunung Mas,Kabupaten/Kota,27,16,4,0
+280,Kab. Pulang Pisau,Kabupaten/Kota,20,26,3,3
+281,Kab. Murung Raya,Kabupaten/Kota,38,6,17,0
+282,Kab. Barito Timur,Kabupaten/Kota,46,18,2,2
+283,Kota Palangka Raya,Kabupaten/Kota,34,15,11,39
+284,Provinsi Kalimantan Selatan,Provinsi,534,183,62,121
+285,Kab. Banjar,Kabupaten/Kota,122,24,6,1
+286,Kab. Tanah Laut,Kabupaten/Kota,61,14,4,5
+287,Kab. Barito Kuala,Kabupaten/Kota,54,14,3,1
+288,Kab. Tapin,Kabupaten/Kota,13,13,3,2
+289,Kab. Hulu Sungai Selatan,Kabupaten/Kota,34,7,0,2
+290,Kab. Hulu Sungai Tengah,Kabupaten/Kota,30,16,9,1
+291,Kab. Hulu Sungai Utara,Kabupaten/Kota,19,8,2,4
+292,Kab. Tabalong,Kabupaten/Kota,26,17,3,25
+293,Kab. Kotabaru,Kabupaten/Kota,45,19,7,29
+294,Kab. Balangan,Kabupaten/Kota,26,7,8,0
+295,Kab. Tanah Bumbu,Kabupaten/Kota,29,21,5,23
+296,Kota Banjarmasin,Kabupaten/Kota,63,15,10,23
+297,Kota Banjarbaru,Kabupaten/Kota,12,8,2,5
+298,Provinsi Kalimantan Timur,Provinsi,639,184,75,55
+299,Kab. Paser,Kabupaten/Kota,92,29,4,9
+300,Kab. Kutai Kartanegara,Kabupaten/Kota,195,32,15,13
+301,Kab. Berau,Kabupaten/Kota,75,48,2,3
+302,Kab. Kutai Barat,Kabupaten/Kota,21,8,13,3
+303,Kab. Kutai Timur,Kabupaten/Kota,108,37,31,9
+304,Kab. Penajam Paser Utara,Kabupaten/Kota,23,4,1,0
+305,Kab. Mahakam Ulu,Kabupaten/Kota,3,11,3,0
+306,Kota Samarinda,Kabupaten/Kota,47,11,4,6
+307,Kota Balikpapan,Kabupaten/Kota,59,4,2,7
+308,Kota Bontang,Kabupaten/Kota,16,0,0,5
+309,Provinsi Sulawesi Utara,Provinsi,469,181,154,158
+310,Kab. Bolaang Mongondow,Kabupaten/Kota,37,5,2,35
+311,Kab. Minahasa,Kabupaten/Kota,79,22,20,23
+312,Kab. Kepulauan Sangihe,Kabupaten/Kota,21,19,0,0
+313,Kab. Kepulauan Talaud,Kabupaten/Kota,44,3,6,0
+314,Kab. Minahasa Selatan,Kabupaten/Kota,47,17,11,10
+315,Kab. Minahasa Utara,Kabupaten/Kota,19,7,22,14
+316,Kab. Bolaang Mongondow Utara,Kabupaten/Kota,10,3,6,23
+317,Kab. Kepulauan Siau Tagulandang Biaro,Kabupaten/Kota,10,6,17,22
+318,Kab. Minahasa Tenggara,Kabupaten/Kota,39,11,6,2
+319,Kab. Bolaang Mongondow Timur,Kabupaten/Kota,7,3,0,7
+320,Kab. Bolaang Mongondow Selatan,Kabupaten/Kota,37,8,4,4
+321,Kota Manado,Kabupaten/Kota,79,70,44,3
+322,Kota Bitung,Kabupaten/Kota,27,4,16,14
+323,Kota Tomohon,Kabupaten/Kota,5,1,0,1
+324,Kota Kotamobagu,Kabupaten/Kota,8,2,0,0
+325,Provinsi Sulawesi Tengah,Provinsi,"1,013",500,270,199
+326,Kab. Banggai Kepulauan,Kabupaten/Kota,22,9,7,8
+327,Kab. Donggala,Kabupaten/Kota,148,46,17,17
+328,Kab. Poso,Kabupaten/Kota,59,10,13,4
+329,Kab. Banggai,Kabupaten/Kota,58,29,44,44
+330,Kab. Buol,Kabupaten/Kota,125,69,81,3
+331,Kab. Tolitoli,Kabupaten/Kota,60,28,17,15
+332,Kab. Morowali,Kabupaten/Kota,59,10,12,67
+333,Kab. Parigi Moutong,Kabupaten/Kota,209,149,2,6
+334,Kab. Tojo Una-Una,Kabupaten/Kota,71,38,16,0
+335,Kab. Sigi,Kabupaten/Kota,125,70,36,6
+336,Kab. Banggai Laut,Kabupaten/Kota,12,2,2,5
+337,Kab. Morowali Utara,Kabupaten/Kota,28,9,2,0
+338,Kota Palu,Kabupaten/Kota,37,31,21,24
+339,Provinsi Sulawesi Selatan,Provinsi,"1,811",717,924,528
+340,Kab. Maros,Kabupaten/Kota,70,30,28,4
+341,Kab. Pangkajene dan Kepulauan,Kabupaten/Kota,44,33,23,7
+342,Kab. Gowa,Kabupaten/Kota,142,94,108,52
+343,Kab. Takalar,Kabupaten/Kota,95,25,34,21
+344,Kab. Jeneponto,Kabupaten/Kota,206,90,20,10
+345,Kab. Barru,Kabupaten/Kota,23,29,11,1
+346,Kab. Bone,Kabupaten/Kota,178,77,111,6
+347,Kab. Wajo,Kabupaten/Kota,107,48,16,78
+348,Kab. Soppeng,Kabupaten/Kota,16,10,12,34
+349,Kab. Bantaeng,Kabupaten/Kota,74,20,3,3
+350,Kab. Bulukumba,Kabupaten/Kota,104,14,42,16
+351,Kab. Sinjai,Kabupaten/Kota,86,13,70,24
+352,Kab. Kepulauan Selayar,Kabupaten/Kota,30,20,15,31
+353,Kab. Pinrang,Kabupaten/Kota,100,26,4,7
+354,Kab. Sidenreng Rappang,Kabupaten/Kota,61,27,12,5
+355,Kab. Enrekang,Kabupaten/Kota,17,3,14,5
+356,Kab. Luwu,Kabupaten/Kota,55,35,159,16
+357,Kab. Tana Toraja,Kabupaten/Kota,29,8,7,31
+358,Kab. Luwu Utara,Kabupaten/Kota,15,2,21,12
+359,Kab. Luwu Timur,Kabupaten/Kota,37,15,14,2
+360,Kab. Toraja Utara,Kabupaten/Kota,104,10,14,4
+361,Kota Makassar,Kabupaten/Kota,193,56,151,101
+362,Kota Parepare,Kabupaten/Kota,7,26,12,37
+363,Kota Palopo,Kabupaten/Kota,18,6,23,21
+364,Provinsi Sulawesi Tenggara,Provinsi,730,230,211,221
+365,Kab. Konawe,Kabupaten/Kota,67,22,57,16
+366,Kab. Muna,Kabupaten/Kota,68,35,12,136
+367,Kab. Buton,Kabupaten/Kota,30,7,5,2
+368,Kab. Kolaka,Kabupaten/Kota,78,8,9,10
+369,Kab. Konawe Selatan,Kabupaten/Kota,113,14,52,1
+370,Kab. Wakatobi,Kabupaten/Kota,42,8,10,0
+371,Kab. Bombana,Kabupaten/Kota,55,13,10,2
+372,Kab. Kolaka Utara,Kabupaten/Kota,23,10,11,25
+373,Kab. Konawe Utara,Kabupaten/Kota,35,17,3,2
+374,Kab. Buton Utara,Kabupaten/Kota,20,22,5,3
+375,Kab. Kolaka Timur,Kabupaten/Kota,19,6,6,2
+376,Kab. Konawe Kepulauan,Kabupaten/Kota,9,3,2,1
+377,Kab. Muna Barat,Kabupaten/Kota,52,39,4,7
+378,Kab. Buton Selatan,Kabupaten/Kota,20,4,3,0
+379,Kab. Buton Tengah,Kabupaten/Kota,44,12,7,8
+380,Kota Kendari,Kabupaten/Kota,18,8,5,2
+381,Kota Baubau,Kabupaten/Kota,37,2,10,4
+382,Provinsi Maluku,Provinsi,654,211,262,49
+383,Kab. Maluku Tengah,Kabupaten/Kota,217,26,19,0
+384,Kab. Maluku Tenggara,Kabupaten/Kota,33,8,38,5
+385,Kab. Buru,Kabupaten/Kota,42,3,0,0
+386,Kab. Kepulauan Tanimbar,Kabupaten/Kota,63,27,36,4
+387,Kab. Seram Bagian Barat,Kabupaten/Kota,42,26,13,0
+388,Kab. Seram Bagian Timur,Kabupaten/Kota,60,36,16,0
+389,Kab. Kepulauan Aru,Kabupaten/Kota,31,19,7,1
+390,Kab. Maluku Barat Daya,Kabupaten/Kota,25,46,47,20
+391,Kab. Buru Selatan,Kabupaten/Kota,42,7,2,2
+392,Kota Ambon,Kabupaten/Kota,68,13,82,17
+393,Kota Tual,Kabupaten/Kota,31,0,2,0
+394,Provinsi Bali,Provinsi,168,46,21,34
+395,Kab. Buleleng,Kabupaten/Kota,52,14,2,6
+396,Kab. Jembrana,Kabupaten/Kota,18,1,2,1
+397,Kab. Tabanan,Kabupaten/Kota,11,0,1,1
+398,Kab. Badung,Kabupaten/Kota,19,8,3,6
+399,Kab. Gianyar,Kabupaten/Kota,11,2,0,3
+400,Kab. Klungkung,Kabupaten/Kota,20,0,4,0
+401,Kab. Bangli,Kabupaten/Kota,8,9,0,2
+402,Kab. Karangasem,Kabupaten/Kota,20,11,2,1
+403,Kota Denpasar,Kabupaten/Kota,9,1,7,14
+404,Provinsi Nusa Tenggara Barat,Provinsi,"1,093",319,919,661
+405,Kab. Lombok Barat,Kabupaten/Kota,123,21,131,84
+406,Kab. Lombok Tengah,Kabupaten/Kota,167,91,80,61
+407,Kab. Lombok Timur,Kabupaten/Kota,197,61,305,315
+408,Kab. Sumbawa,Kabupaten/Kota,57,13,21,48
+409,Kab. Dompu,Kabupaten/Kota,165,17,82,18
+410,Kab. Bima,Kabupaten/Kota,256,96,122,97
+411,Kab. Sumbawa Barat,Kabupaten/Kota,14,4,5,6
+412,Kab. Lombok Utara,Kabupaten/Kota,37,8,133,9
+413,Kota Mataram,Kabupaten/Kota,17,6,11,17
+414,Kota Bima,Kabupaten/Kota,60,2,29,6
+415,Provinsi Nusa Tenggara Timur,Provinsi,"3,463",866,596,686
+416,Kab. Kupang,Kabupaten/Kota,66,54,48,63
+417,Kab. Timor Tengah Selatan,Kabupaten/Kota,384,86,44,91
+418,Kab. Timor Tengah Utara,Kabupaten/Kota,55,26,33,17
+419,Kab. Belu,Kabupaten/Kota,76,35,9,7
+420,Kab. Alor,Kabupaten/Kota,130,46,59,20
+421,Kab. Flores Timur,Kabupaten/Kota,67,24,28,43
+422,Kab. Sikka,Kabupaten/Kota,110,47,12,15
+423,Kab. Ende,Kabupaten/Kota,66,24,20,122
+424,Kab. Ngada,Kabupaten/Kota,32,22,13,32
+425,Kab. Manggarai,Kabupaten/Kota,48,43,44,16
+426,Kab. Sumba Timur,Kabupaten/Kota,"1,361",52,27,1
+427,Kab. Sumba Barat,Kabupaten/Kota,67,17,37,2
+428,Kab. Lembata,Kabupaten/Kota,33,9,26,2
+429,Kab. Rote Ndao,Kabupaten/Kota,44,18,6,10
+430,Kab. Manggarai Barat,Kabupaten/Kota,38,17,19,3
+431,Kab. Nagekeo,Kabupaten/Kota,48,27,11,5
+432,Kab. Sumba Tengah,Kabupaten/Kota,17,4,4,4
+433,Kab. Sumba Barat Daya,Kabupaten/Kota,515,173,31,167
+434,Kab. Manggarai Timur,Kabupaten/Kota,65,50,57,44
+435,Kab. Sabu Raijua,Kabupaten/Kota,23,4,8,3
+436,Kab. Malaka,Kabupaten/Kota,150,75,18,3
+437,Kota Kupang,Kabupaten/Kota,68,13,42,16
+438,Provinsi Papua,Provinsi,"2,842",856,402,294
+439,Kab. Jayapura,Kabupaten/Kota,115,22,47,9
+440,Kab. Biak Numfor,Kabupaten/Kota,122,19,10,2
+441,Kab. Kepulauan Yapen,Kabupaten/Kota,39,3,12,32
+442,Kab. Merauke,Kabupaten/Kota,156,93,26,53
+443,Kab. Jayawijaya,Kabupaten/Kota,36,136,59,86
+444,Kab. Nabire,Kabupaten/Kota,47,30,14,9
+445,Kab. Paniai,Kabupaten/Kota,237,8,111,3
+446,Kab. Puncak Jaya,Kabupaten/Kota,214,16,0,0
+447,Kab. Mimika,Kabupaten/Kota,123,50,8,10
+448,Kab. Boven Digoel,Kabupaten/Kota,123,1,2,0
+449,Kab. Mappi,Kabupaten/Kota,243,26,1,11
+450,Kab. Asmat,Kabupaten/Kota,252,10,0,0
+451,Kab. Yahukimo,Kabupaten/Kota,284,107,5,3
+452,Kab. Pegunungan Bintang,Kabupaten/Kota,232,4,0,5
+453,Kab. Tolikara,Kabupaten/Kota,12,117,2,0
+454,Kab. Sarmi,Kabupaten/Kota,46,19,0,9
+455,Kab. Keerom,Kabupaten/Kota,18,2,0,0
+456,Kab. Waropen,Kabupaten/Kota,38,10,0,0
+457,Kab. Supiori,Kabupaten/Kota,21,4,10,0
+458,Kab. Mamberamo Raya,Kabupaten/Kota,14,7,3,0
+459,Kab. Nduga,Kabupaten/Kota,41,0,3,0
+460,Kab. Lanny Jaya,Kabupaten/Kota,57,14,52,5
+461,Kab. Mamberamo Tengah,Kabupaten/Kota,23,8,2,0
+462,Kab. Yalimo,Kabupaten/Kota,24,18,0,0
+463,kab. Puncak,Kabupaten/Kota,3,2,2,0
+464,Kab. Dogiyai,Kabupaten/Kota,175,35,0,8
+465,Kab. Deiyai,Kabupaten/Kota,55,63,32,9
+466,Kab. Intan Jaya,Kabupaten/Kota,2,14,0,0
+467,Kota Jayapura,Kabupaten/Kota,90,18,1,40
+468,Provinsi Bengkulu,Provinsi,286,91,119,198
+469,Kab. Bengkulu Utara,Kabupaten/Kota,27,12,12,1
+470,Kab. Rejang Lebong,Kabupaten/Kota,21,8,7,13
+471,Kab. Bengkulu Selatan,Kabupaten/Kota,70,1,29,3
+472,Kab. Mukomuko,Kabupaten/Kota,34,4,13,31
+473,Kab. Kepahiang,Kabupaten/Kota,15,9,10,2
+474,Kab. Lebong,Kabupaten/Kota,8,13,1,4
+475,Kab. Kaur,Kabupaten/Kota,37,18,13,13
+476,Kab. Seluma,Kabupaten/Kota,31,6,10,9
+477,Kab. Bengkulu Tengah,Kabupaten/Kota,19,6,12,0
+478,Kota Bengkulu,Kabupaten/Kota,24,14,12,122
+479,Provinsi Maluku Utara,Provinsi,534,144,103,107
+480,Kab. Pulau Taliabu,Kabupaten/Kota,53,16,5,11
+481,Kab. Halmahera Tengah,Kabupaten/Kota,56,35,9,0
+482,Kab. Halmahera Barat,Kabupaten/Kota,50,5,4,3
+483,Kab. halmahera Utara,Kabupaten/Kota,93,9,9,33
+484,Kab. Halmahera Selatan,Kabupaten/Kota,172,42,62,25
+485,Kab. Halmahera Timur,Kabupaten/Kota,33,10,3,13
+486,Kab. Kepulauan Sula,Kabupaten/Kota,5,10,0,3
+487,Kab. Pulau Morotai,Kabupaten/Kota,1,1,5,8
+488,Kota Ternate,Kabupaten/Kota,34,13,4,7
+489,Kota Tidore Kepulauan,Kabupaten/Kota,37,3,2,4
+490,Provinsi Banten,Provinsi,"1,397",471,342,580
+491,Kab. Pandeglang,Kabupaten/Kota,249,92,41,76
+492,Kab. Lebak,Kabupaten/Kota,204,85,29,23
+493,Kab. Tangerang,Kabupaten/Kota,408,88,93,332
+494,Kab. Serang,Kabupaten/Kota,181,161,137,71
+495,Kota Cilegon,Kabupaten/Kota,9,2,4,37
+496,Kota Tangerang,Kabupaten/Kota,111,6,8,12
+497,Kota Serang,Kabupaten/Kota,143,23,16,27
+498,Kota Tangerang Selatan,Kabupaten/Kota,92,14,14,2
+499,Provinsi Kep. Bangka Belitung,Provinsi,231,31,23,51
+500,Kab. Bangka,Kabupaten/Kota,71,4,6,3
+501,Kab. Belitung,Kabupaten/Kota,14,1,1,16
+502,Kab. Bangka Tengah,Kabupaten/Kota,16,3,1,1
+503,Kab. Bangka Barat,Kabupaten/Kota,39,14,5,9
+504,Kab. Bangka Selatan,Kabupaten/Kota,42,6,10,19
+505,Kab. Belitung Timur,Kabupaten/Kota,16,2,0,0
+506,Kota Pangkalpinang,Kabupaten/Kota,33,1,0,3
+507,Provinsi Gorontalo,Provinsi,518,183,168,149
+508,Kab. Boalemo,Kabupaten/Kota,106,27,44,24
+509,Kab. Gorontalo,Kabupaten/Kota,137,61,42,24
+510,Kab. Pohuwato,Kabupaten/Kota,103,19,29,10
+511,Kab. Bone Bolango,Kabupaten/Kota,86,45,27,17
+512,Kab. Gorontalo Utara,Kabupaten/Kota,58,17,20,60
+513,Kota Gorontalo,Kabupaten/Kota,28,14,6,14
+514,Provinsi Kepulauan Riau,Provinsi,271,19,61,8
+515,Kab. Bintan,Kabupaten/Kota,35,0,1,2
+516,Kab. Karimun,Kabupaten/Kota,32,3,2,0
+517,Kab. Natuna,Kabupaten/Kota,4,3,4,0
+518,Kab. Lingga,Kabupaten/Kota,2,1,1,0
+519,Kab. Kepulauan Anambas,Kabupaten/Kota,7,1,0,0
+520,Kota Batam,Kabupaten/Kota,169,10,52,5
+521,Kota Tanjungpinang,Kabupaten/Kota,22,1,1,1
+522,Provinsi Papua Barat,Provinsi,584,112,72,75
+523,Kab. Fakfak,Kabupaten/Kota,32,10,10,8
+524,Kab. Kaimana,Kabupaten/Kota,25,4,0,0
+525,Kab. Teluk Wondama,Kabupaten/Kota,73,5,0,0
+526,Kab. Teluk Bintuni,Kabupaten/Kota,59,20,0,6
+527,Kab. Manokwari,Kabupaten/Kota,25,6,7,17
+528,Kab. Sorong Selatan,Kabupaten/Kota,32,2,0,0
+529,Kab. Sorong,Kabupaten/Kota,96,9,13,3
+530,Kab. Raja Ampat,Kabupaten/Kota,27,9,7,9
+531,Kab. Tambrauw,Kabupaten/Kota,26,7,13,1
+532,Kab. Maybrat,Kabupaten/Kota,3,13,1,0
+533,Kab. Pegunungan Arfak,Kabupaten/Kota,35,7,0,0
+534,Kab. Manokwari Selatan,Kabupaten/Kota,23,5,4,0
+535,Kota Sorong,Kabupaten/Kota,128,15,17,31
+536,Provinsi Sulawesi Barat,Provinsi,402,166,82,356
+537,Kab. Mamuju,Kabupaten/Kota,104,32,12,7
+538,Kab. Pasangkayu,Kabupaten/Kota,59,40,4,30
+539,Kab. Polewali Mandar,Kabupaten/Kota,98,57,6,14
+540,Kab. Mamasa,Kabupaten/Kota,40,19,20,186
+541,Kab. Majene,Kabupaten/Kota,42,12,40,106
+542,Kab. Mamuju Tengah,Kabupaten/Kota,59,6,0,13
+543,Provinsi Kalimantan Utara,Provinsi,162,39,16,16
+544,Kab. Malinau,Kabupaten/Kota,32,13,6,0
+545,Kab. Bulungan,Kabupaten/Kota,30,2,2,2
+546,Kab. Tana Tidung,Kabupaten/Kota,6,0,0,1
+547,Kab. Nunukan,Kabupaten/Kota,70,18,6,8
+548,Kota Tarakan,Kabupaten/Kota,24,6,2,5
