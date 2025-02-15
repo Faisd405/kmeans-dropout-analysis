@@ -13,6 +13,7 @@ from sklearn.preprocessing import StandardScaler
 # - Mengelompokkan daerah berdasarkan jumlah siswa putus sekolah.
 # - Menentukan pola yang dapat digunakan untuk intervensi kebijakan pendidikan.
 #==============================================================================
+
 def load_data():  
     #==============================================================================
     # DATA UNDERSTANDING
@@ -25,7 +26,6 @@ def load_data():
     data = pd.read_excel(file_path, sheet_name='Sheet1')
     
     return data
-
 
 def preprocess_data(data):
     #==============================================================================
@@ -46,13 +46,13 @@ def preprocess_data(data):
     })
     return data
 
-
 def perform_elbow_method(X):
     #==============================================================================
     # MODELING - Elbow Method
     #==============================================================================
     # Tujuan:
     # - Menentukan jumlah cluster optimal menggunakan metode Elbow.
+    # - Menggunakan Within-Cluster Sum of Squares (WCSS) untuk evaluasi.
     #==============================================================================
     wcss = []
     k_range = range(1, 11)
@@ -62,18 +62,18 @@ def perform_elbow_method(X):
         wcss.append(kmeans.inertia_)
     return k_range, wcss
 
-
 def perform_clustering(X, k):
     #==============================================================================
     # MODELING - K-Means Clustering
     #==============================================================================
     # Tujuan:
-    # - Melakukan clustering terhadap daerah berdasarkan jumlah siswa putus sekolah.
+    # - Mengelompokkan daerah berdasarkan jumlah siswa putus sekolah.
+    # - Menggunakan algoritma K-Means untuk menentukan cluster terbaik.
+    # - Menambahkan hasil cluster ke dalam dataset.
     #==============================================================================
     kmeans = KMeans(n_clusters=k, random_state=42, n_init=10)
     clusters = kmeans.fit_predict(X)
-    return clusters + 1
-
+    return clusters + 1  # Agar cluster dimulai dari 1
 
 def main(): 
     st.set_page_config(
@@ -85,10 +85,11 @@ def main():
 
     st.title("Analisis Clustering Jumlah Siswa Putus Sekolah di Indonesia")
 
-    datasetTab, elbowTab, clusteringTab = st.tabs([
+    datasetTab, elbowTab, clusteringTab, evaluationTab = st.tabs([
         "Data Siswa Putus Sekolah",
         "Elbow Method",
-        "Clustering K-Means"
+        "Clustering K-Means",
+        "Evaluasi Data"
     ])
 
     raw_data = load_data()
@@ -102,6 +103,9 @@ def main():
     with datasetTab:
         #==============================================================================
         # EVALUATION - Tinjauan Data
+        #==============================================================================
+        # Tujuan:
+        # - Menampilkan data awal siswa putus sekolah untuk memahami distribusinya.
         #==============================================================================
         st.header("Data Siswa Putus Sekolah")
         st.dataframe(df.head())
@@ -121,18 +125,38 @@ def main():
         st.header("Clustering K-Means")
         k_optimal = st.slider("Pilih jumlah cluster", 2, 10, 5)
         df['Cluster'] = perform_clustering(X_scaled, k_optimal)
-
         st.write("## Hasil Clustering")
         st.dataframe(df[['Daerah', 'Cluster']])
         
         #==============================================================================
-        # DEPLOYMENT - Menampilkan Hasil Analisis
+        # DEPLOYMENT - Menampilkan Hasil Clustering
+        #==============================================================================
+        # Tujuan:
+        # - Menampilkan hasil clustering dalam bentuk tabel agregat.
+        # - Membantu dalam analisis kebijakan pendidikan.
         #==============================================================================
         st.write("### Total Jumlah Siswa Putus Sekolah per Cluster")
         cluster_totals = df.groupby('Cluster')[features].sum()
         cluster_totals['Total'] = cluster_totals.sum(axis=1)
         st.dataframe(cluster_totals)
-
+    
+    with evaluationTab:
+        st.header("Evaluasi Data")
+        
+        st.write("### Statistik Deskriptif")
+        st.dataframe(df.describe())
+        
+        st.write("### Distribusi Data per Cluster")
+        fig, ax = plt.subplots()
+        sns.barplot(x=cluster_totals.index, y=cluster_totals["Total"], ax=ax)
+        ax.set_xlabel("Cluster")
+        ax.set_ylabel("Total Siswa Putus Sekolah")
+        ax.set_title("Total Siswa Putus Sekolah per Cluster")
+        st.pyplot(fig)
+        
+        st.write("### Rata-rata Jumlah Putus Sekolah per Cluster")
+        cluster_means = df.groupby('Cluster')[features].mean()
+        st.dataframe(cluster_means)
 
 if __name__ == "__main__":
     main()
