@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import silhouette_score
 
 #==============================================================================
 # BUSINESS UNDERSTANDING
@@ -123,7 +124,7 @@ def main():
 
     with clusteringTab:
         st.header("Clustering K-Means")
-        k_optimal = st.slider("Pilih jumlah cluster", 2, 10, 5)
+        k_optimal = st.slider("Pilih jumlah cluster", 2, 10, 3)
         df['Cluster'] = perform_clustering(X_scaled, k_optimal)
         st.write("## Hasil Clustering")
         st.dataframe(df[['Daerah', 'Cluster']])
@@ -157,6 +158,11 @@ def main():
         st.write("### Rata-rata Jumlah Putus Sekolah per Cluster")
         cluster_means = df.groupby('Cluster')[features].mean()
         st.dataframe(cluster_means)
+
+        # Hitung Silhouette Score
+        silhouette_avg = silhouette_score(X_scaled, df['Cluster'])
+
+        st.write(f"### Silhouette Score: {silhouette_avg:.3f}")
 
 if __name__ == "__main__":
     main()
